@@ -1,2 +1,2 @@
-# React
+# Flask
 sample test poject
